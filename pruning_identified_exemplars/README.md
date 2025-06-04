@@ -11,7 +11,7 @@ This is the open source code repository to accompany the work **Selective Brain 
 
 Take a look at a sample of PIE images and impacted classes [here](http://weightpruningdamage.github.io/).
 
-### tl;dr
+### tl;dr 
 
 Summary: The ability to prune networks with seemingly so little degradation to
 generalization performance is puzzling. The cost to top-1 accuracy appears
