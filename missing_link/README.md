@@ -1,5 +1,5 @@
 # The missing link: Finding label relations across datasets
-
+ 
 This directory contains the annotated relations between labels across
 datasets used in our [ECCV 2022 paper](https://arxiv.org/abs/2206.04453).
 The annotations were created by building on existing annotations of 
