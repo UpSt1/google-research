@@ -1,4 +1,4 @@
-## Learning Physical Dynamics with Action-Angle Networks
+## Learning Physical Dynamics with Action-Angle Networks 
 
 The official JAX implementation of Action-Angle Networks.
 
